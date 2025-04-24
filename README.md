@@ -26,7 +26,7 @@
 ### Para entrar em contato:
  
 <div> 
-  <a href = "varlengaspar171@gmail.com" target="_blank"> <!-- link para seu email -->
+  <a href = "varlenreserva@gmail.com" target="_blank"> <!-- link para seu email -->
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/varlennnn?igsh=MWIzMm8yNGJnZ2JiOQ==" target="_blank"> <!-- link do seu insta -->
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
