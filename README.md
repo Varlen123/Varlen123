@@ -30,7 +30,7 @@
 ### Bancos de Dados
 
 ![Mysql](https://skillicons.dev/icons?i=myqsl)
-![Prisma](<img align="center" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">)
+![Prisma](<img src="./icons/Prisma.svg" width="48">)
 
 ### Sistemas Operacionais
 
@@ -39,4 +39,4 @@
 
 ## 🏆 Conquistas
 
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Matusal3m&theme=onedark&row=2&column=4)](https://github.com/Matusal3m)
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Matusal3m&theme=onedark&row=2&column=4)](https://github.com/Varlen123)
