@@ -36,7 +36,3 @@
 
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-
-## 🏆 Conquistas
-
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Varlen123&theme=onedark&row=2&column=4)](https://github.com/Varlen123)
