@@ -23,14 +23,14 @@
 
 ### Ferramentas & Plataformas
 
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ### Bancos de Dados
 
-![Mysql](https://skillicons.dev/icons?i=myqsl)
-![Prisma](<img src="./icons/Prisma.svg" width="48">)
+![Mysql](https://skillicons.dev/icons?i=mysql)
 
 ### Sistemas Operacionais
 
