@@ -1,33 +1,42 @@
-## Bem-vindo(a) ao meu perfil!
+# Olá, eu sou Matusal3m! 👋
 
- <div>
-   <a href="https://github.com/Varlen123"> <!-- link do seu github -->
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varlen123&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varlen123&layout=compact&langs_count=6&theme=tokyonight&include_all_commits=false&count_private=false"/>
-</div>
-   </div>
-    
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-   <img align="center" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
-   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-          
-          
-       
-       
-</div>
- 
-<br>
- 
-### Para entrar em contato:
- 
-<div> 
-  <a href = "varlenreserva@gmail.com" target="_blank"> <!-- link para seu email -->
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/varlennnn?igsh=MWIzMm8yNGJnZ2JiOQ==" target="_blank"> <!-- link do seu insta -->
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/Matusal3m?style=social)](https://github.com/Matusal3m)
+[![GitHub Stars](https://img.shields.io/github/stars/Matusal3m?style=social)](https://github.com/Matusal3m)
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=Matusal3m&color=blueviolet)
+
+## 📊 Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Matusal3m&show_icons=true&theme=radical)](https://github.com/Matusal3m)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Matusal3m&layout=compact&theme=radical)](https://github.com/Matusal3m)
+
+### Frontend
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+### Backend
+
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Python](https://skillicons.dev/icons?i=py)
+![Java](https://skillicons.dev/icons?i=java)
+
+### Ferramentas & Plataformas
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+### Bancos de Dados
+
+![Mysql](https://skillicons.dev/icons?i=myqsl)
+![Prisma](<img align="center" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">)
+
+### Sistemas Operacionais
+
+![Linux](https://skillicons.dev/icons?i=linux)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+
+## 🏆 Conquistas
+
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Matusal3m&theme=onedark&row=2&column=4)](https://github.com/Matusal3m)
