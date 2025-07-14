@@ -20,6 +20,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![Python](https://skillicons.dev/icons?i=py)
 ![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
 
 ### Ferramentas & Plataformas
 
@@ -30,6 +31,7 @@
 
 ### Bancos de Dados
 
+![Mysql](https://skillicons.dev/icons?i=mysql)
 ![Mysql](https://skillicons.dev/icons?i=mysql)
 
 ### Sistemas Operacionais
