@@ -32,7 +32,6 @@
 ### Bancos de Dados
 
 ![Mysql](https://skillicons.dev/icons?i=mysql)
-![Mysql](https://skillicons.dev/icons?i=mysql)
 
 ### Sistemas Operacionais
 
