@@ -36,3 +36,5 @@
 
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Mint](https://skillicons.dev/icons?i=Mint)
+
