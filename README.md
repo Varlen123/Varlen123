@@ -32,6 +32,7 @@
 ### Bancos de Dados
 
 ![Mysql](https://skillicons.dev/icons?i=mysql)
+![Postgresql](https://skillicons.dev/icons?i=postgresql)
 
 ### Sistemas Operacionais
 
