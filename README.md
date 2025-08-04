@@ -1,12 +1,5 @@
 # Olá, eu sou Varlen! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Varlen123?style=social)](https://github.com/Varlen123)
-[![GitHub Stars](https://img.shields.io/github/stars/Varlen123?style=social)](https://github.com/Varlen123)
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=Varlen123&color=blueviolet)
-
-## 📊 Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Varlen123&show_icons=true&theme=radical)](https://github.com/Varlen123)
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Varlen123&layout=compact&theme=radical)](https://github.com/Varlen123)
 
 ### Frontend
